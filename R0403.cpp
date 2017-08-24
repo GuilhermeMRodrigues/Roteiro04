@@ -15,8 +15,6 @@ int main(){
 
     int dado[n];
 
-    //cout << "A area da casa eh:" << altura*largura << "m quadrados";*/
-
 
 
         for(i = 1; i <= n; i++){
